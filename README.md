@@ -1,29 +1,35 @@
-# Super Sales Dashboard – Tableau Project
+# Sales Comparison by Region – Tableau Dashboard
 
 ## Project Overview
-This project analyzes sales performance using Tableau to identify revenue trends, regional performance, and category-level insights.
+This Tableau dashboard analyzes and compares sales performance across different regions to evaluate business performance and identify key trends.
 
 ## Objective
-To evaluate overall sales performance and uncover key business insights that can support data-driven decision-making.
+To compare primary and secondary regions based on revenue, customer count, order volume, and product performance.
 
 ## Tools Used
 - Tableau
-- Excel (Data Source)
+- Sample Superstore Dataset
 
-## Key Analysis Performed
+## Key Metrics Analyzed
+- Total Sales
+- Average Sales per Order
+- Number of Orders
+- Number of Customers
+- Number of Products Sold
+
+## Analysis Performed
 - Regional sales comparison
-- Category and sub-category performance
-- Monthly sales trends
-- Profit analysis
-- Top-performing products
+- Category and sub-category sales analysis
+- Product-level performance evaluation
+- Monthly trend analysis
+- Geographic visualization using maps
 
 ## Key Insights
-- Identified highest revenue-generating regions
-- Highlighted top-selling product categories
-- Analyzed profit margins across segments
-- Tracked sales performance over time
+- Identified top-performing regions based on revenue
+- Compared customer engagement across regions
+- Highlighted product categories driving maximum sales
+- Analyzed variations in order behavior between regions
 
 ## Files Included
 - Tableau Project (.twbx)
 - Dashboard Screenshot
-
